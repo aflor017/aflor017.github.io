@@ -6,4 +6,8 @@ permalink: /teaching/
 show_breadcrumb: true
 ---
 
-GOVT 401: LGBTQ Politics \& Policy [syllabus](GOVT 401 F24 FLORES.pdf)
+GOVT 401: LGBTQ Politics & Policy(Fall 2024 [syllabus](GOVT 401 F24 FLORES.pdf))
+GOVT 650: Political Analysis (Fall 2024 [syllabus]())
+GOVT 653: Intro. to Quant. Methods in Political Science (Spring 2024 [syllabus]())
+GOVT 710: Seminar in Political Behavior (Spring 2023 [syllabus]())
+SPA 613: Conduct of Inquiry II (Spring 2024 [syllabus]())
