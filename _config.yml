@@ -102,7 +102,7 @@ navbar:
   - title   : Teaching
     url     : /teaching/
   - title   : CV
-    url     : https://github.com/aflor017/aflor017.github.io/blob/c43772b1d0dbf9d59ef61051c7cc55ea23366c44/Flores_CV_v4.pdf
+    url     : Flores_CV_v4.pdf
   - title   : Public Work
     child   :
       - title : Policy Reports
