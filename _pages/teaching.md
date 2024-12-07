@@ -6,4 +6,4 @@ permalink: /teaching
 show_breadcrumb: true
 ---
 
-GOVT 401: LGBTQ Politics \& Policy
+GOVT 401: LGBTQ Politics \& Policy [syllabus](GOVT 401 F24 FLORES.pdf)
