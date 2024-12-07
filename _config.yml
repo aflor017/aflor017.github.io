@@ -15,7 +15,7 @@ description             : Andrew R. Flores, Ph.D., Associate Professor at Americ
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
-timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                : America/New_York
 
 # SEO
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
@@ -26,9 +26,9 @@ author:
   location              :  "Washington, DC, USA"   # New York, USA 
 links:                
     - url:  https://bsky.app/profile/drandrewrflores.bsky.social/
-      icon: fab fa-bluesky
+      icon: "fab fa-bluesky"
     - url:  aflores@american.edu
-      icon: far fa-envelope
+      icon: "far fa-envelope"
 
 fa_version: #default ["6"] Use 6 or 5
 fa_kit_code: # Your FontAwesome kit code. If not provided a free hosted version (slower) will be loaded:  https://fontawesome.com/ 
@@ -90,31 +90,30 @@ comments:
 #   "brand" options would be set on the left side of your navbar
 #   "nav" would be set on the right side. Two-level nav links available
 navbar:
-  style     :  #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
+  style     : "dual"
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  Home # Title in navbar
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
+  - title   : Research # Label
+    url     : /research/ # url	
+  - title   : Teaching
+    url     : /teaching/
+  - title   : CV
     url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+  - title   : Public Work
+    child   :
+      - title : Policy Reports
+        url   : /tags
+      - title : Podcasts
+        url   : /categories
+      - title : Op-Eds
+        url   : /archive
+      - title : Interviews
+        url   : /current-skin
+
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
