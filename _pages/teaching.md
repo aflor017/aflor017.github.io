@@ -8,7 +8,7 @@ show_breadcrumb: true
 
 - GOVT 401: LGBTQ Politics & Policy (Fall 2024 [syllabus](GOVT 401 F24 FLORES.pdf))
 
-- GOVT 650: Political Analysis (Fall 2024 [syllabus](GOVT 640 F4 FLORES.pdf))
+- GOVT 650: Political Analysis (Fall 2024 [syllabus](GOVT 650 F4 FLORES.pdf))
 
 - GOVT 653: Intro. to Quant. Methods in Political Science (Spring 2024 [syllabus](GOVT 653 S23 FLORES.pdf))
 
