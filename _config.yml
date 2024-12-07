@@ -145,7 +145,7 @@ chulapa-skin:
   skin         :  "academia"
   autothemer    :  true # Bool: Use autotheming
   vars          :    
-    primary     : "#007bff"
+    primary     : "#084e99"
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
