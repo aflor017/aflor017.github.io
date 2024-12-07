@@ -129,6 +129,9 @@ footer:
     - label: BlueSky
       icon: fab fa-bluesky
       url:  https://bsky.app/profile/drandrewrflores.bsky.social/
+    - label: Email
+      url:  aflores@american.edu
+      icon: far fa-envelope
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -142,7 +145,7 @@ chulapa-skin:
   skin         :  # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
-    primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
+    primary     : "#007bff"
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
