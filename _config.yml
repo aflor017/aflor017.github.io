@@ -146,6 +146,8 @@ chulapa-skin:
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#084e99"
+    navbar-chulapa-bg-color : "#084e99"
+    footer-chulapa-bg-color : "#084e99"
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
