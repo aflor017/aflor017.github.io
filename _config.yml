@@ -125,10 +125,10 @@ footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+      url   : https://github.com/aflor017/ # A link or email: https://twitter.com/jack, mail@example.com
+    - label: BlueSky
+      icon: fab fa-bluesky
+      url:  https://bsky.app/profile/drandrewrflores.bsky.social/
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
