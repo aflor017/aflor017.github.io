@@ -102,7 +102,7 @@ navbar:
   - title   : Teaching
     url     : /teaching/
   - title   : CV
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
+    url     : Flores_CV_v4.pdf
   - title   : Public Work
     child   :
       - title : Policy Reports
