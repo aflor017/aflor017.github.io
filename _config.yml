@@ -141,8 +141,8 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
-  highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  highlight     : "default"
+  skin         :  "academia"
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#007bff"
