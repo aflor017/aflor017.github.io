@@ -11,6 +11,7 @@ show_breadcrumb: true
 <tbody>
 <tr>
 <td>
+  
 - GOVT 401: LGBTQ Politics & Policy (Fall 2024 [syllabus](GOVT 401 F24 FLORES.pdf))
 
 - GOVT 650: Political Analysis (Fall 2024 [syllabus](GOVT 650 F4 FLORES.pdf))
