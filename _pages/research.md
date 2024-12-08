@@ -6,10 +6,7 @@ permalink: /research/
 show_breadcrumb: true
 ---
 
-\centering
-**2024** 
-
-\raggedright
+# 2024 
 
 - Strode, Dakota, Tenaya Storm, and Andrew R. Flores. 2024. "[Transgender and Gender Diverse People Disproportionately Report Problems while Trying to Vote Than Cisgender People](https://www.journals.uchicago.edu/doi/abs/10.1086/732978?journalCode=jop)." *Journal of Politics*
 
@@ -21,9 +18,6 @@ show_breadcrumb: true
 
 - Lewis, Danel C., Andrew R. Flores, Donald P. Haider-Markel, Patrick R. Miller, and Jami K. Taylor. 2024. "[Cultural Threat, Outgroup Empathy, and Attitudes toward Transgender Rights](https://link.springer.com/article/10.1007/s11109-024-09924-y)." *Political Behavior* 46: 2401-2426.
 
-\centering
-**2023**
-
-\raggedright
+# 2023
 
 - Flores, Andrew R., Daniel Boden, Donald P. Haider-Markel, Daniel C. Lewis, Patrick R. Miller, and Jami K. Taylor. 2024. "[Taking Perspective of the Stories We Tell about Transgender Rights](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12475)." *Policy Studies Journal* 51(1): 123-143.
