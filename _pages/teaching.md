@@ -6,7 +6,7 @@ permalink: /teaching/
 show_breadcrumb: true
 ---
 
-<img src="cmps.jpg" width ="200"/>
+<img src="_pages/cmps.jpg" width ="200"/>
 
 - GOVT 401: LGBTQ Politics & Policy (Fall 2024 [syllabus](GOVT 401 F24 FLORES.pdf))
 
